@@ -9,3 +9,4 @@ There are 2 ipynb files :
 2. The model is integrated with tkinter for GUI.
 
 
+![Screenshot (146)](https://user-images.githubusercontent.com/77727866/214084048-f3910d8c-b715-46f5-bdba-c31c1e358e34.png)
